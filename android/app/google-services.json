@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049882387049",
+    "project_id": "basicapp-6c385",
+    "storage_bucket": "basicapp-6c385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049882387049:android:8ae0835d0be1a2eaf8b8f8",
+        "android_client_info": {
+          "package_name": "com.example.spends_product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3jHMQMh-W0Rs6-k7Qh4l3KCVvEWOzNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
